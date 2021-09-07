@@ -1,0 +1,22 @@
+{
+  "name": "react-init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shierote/react-init.git",
+  "author": "shierote <taishi2060@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "^16.7.13",
+    "@types/react": "^17.0.20",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.4.2"
+  }
+}
